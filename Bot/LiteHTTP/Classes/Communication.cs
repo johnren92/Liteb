@@ -4,7 +4,7 @@ using System.Net;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace LiteHTTP.Classes
+namespace coolapp.Classes
 {
     class Communication
     {
